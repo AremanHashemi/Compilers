@@ -1,0 +1,6 @@
+def f(x, y, z):
+if x < z:
+0
+else:
+f(y, z, x)
+f(1, 0, 1)

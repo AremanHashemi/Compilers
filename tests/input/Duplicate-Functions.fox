@@ -1,0 +1,5 @@
+def f(x):
+  x
+def f(x):
+  x
+f(1)
